@@ -96,7 +96,7 @@
     </section>
 
     <footer class="mt-20 text-center text-xs text-[#c4a484]">
-        © 2026 Das Wunderbar Florist. Design with elegance.
+        © 2026 Das Wunderbar Florist
     </footer>
 
 </body>
