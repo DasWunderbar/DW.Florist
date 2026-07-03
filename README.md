@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>柔光花室 - 花禮電商平台</title>
+    <title>Das Wunderbar Florist</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
@@ -18,7 +18,7 @@
 <body class="p-8">
 
     <nav class="flex justify-between items-center mb-12 border-b border-[#d4c4b7] pb-6">
-        <h1 class="text-2xl tracking-widest text-[#8a7e72]">✿ 柔光花室 Muse Florist</h1>
+        <h1 class="text-2xl tracking-widest text-[#8a7e72]">✿ Das Wunderbar Florist</h1>
         <div class="space-x-6 text-sm underline-offset-4 underline">
             <a href="#">作品瀏覽</a>
             <a href="#">顧客管理</a>
